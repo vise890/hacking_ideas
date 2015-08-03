@@ -36,7 +36,7 @@ Write science better. Together (A github for technical writing, books, papers, r
 # [gojure](./detailed/gojure.md)
 Clojure dialect for the golang ecosystem
 
-# [pickpocket](./detailed/pickpoket.md)
+# [pickpocket](./detailed/pickpocket.md)
 Scrape reading list from pocket, put it in sane plain-text format.
 
 # [juicer](./detailed/juicer.md)
