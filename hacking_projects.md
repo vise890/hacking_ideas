@@ -73,11 +73,6 @@ HTML content extractor for the CLI.
 Format for building and representing knowledge graphs.
 
 
-# Arch package manager
-
-arch package manager (a la homebrew)
-
-
 # SOT (Science of Trust)
 
 WOT for publications
