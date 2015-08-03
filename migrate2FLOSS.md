@@ -4,7 +4,7 @@ Move all the things to FLOSS, improve, build, but don't lose conveniences.
 
 ## GNU/Linux Shortcomings / annoyances
 
-### Shortcuts
+### Keyboard Shortcuts
 - they're still kind of lame compared to their mac os equivalent;
 - especially the text movement (cmd/alt/shift)
   - alt is not used? use ctrl?
