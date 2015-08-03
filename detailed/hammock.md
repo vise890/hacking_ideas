@@ -1,8 +1,12 @@
 # Hammock
+
 Leisurely build Restful APIs that serve JSON, protocol buffers, ...
 
+
 # Useageness
-Put a Schema document in the `resources` folder. That's it. You now have all the basic CRUD actions at `/resource_name`.
+
+Put a Schema document in the `resources` folder. That's it. You now have all
+the basic CRUD actions at `/resource_name`.
 
 For example, if you put this in `resources/coconut.rb`:
 

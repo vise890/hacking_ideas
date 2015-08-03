@@ -2,7 +2,7 @@
 Clojure wrapper for [Electron](http://electron.atom.io)
 
 # Drug interaction
-- crowdsourced data for drugs
+- crowd-sourced data for drugs
 - app warns you of possible negative interactions between drugs
 
 # jiki
@@ -17,6 +17,9 @@ Haskell/clojure. REST/GraphQL json wrapper over IMAP, SMPTP and GPG. Sending ema
 POST {to: 'bobby@bob.com', from: 'vise@viselabs.com', subject: 'bla', body: 'blabla' } /email
 ```
 
+# [scotty](./detailed/scotty.md)
+A simple energy simulation engine.
+
 # App for studio di settore
 ...and sell that shit for much profit
 
@@ -28,7 +31,7 @@ dockerized LaTeX typesetting server
 - POST /typeset {something.md} => something.pdf
 
 # [PaperWare](./detailed/scihub.md)
-Write science better. Together
+Write science better. Together (A github for technical writing, books, papers, research, projects..)
 
 # [gojure](./detailed/gojure.md)
 Clojure dialect for the golang ecosystem
@@ -41,9 +44,6 @@ HTML content extractor for the CLI.
 
 # [koji](./detailed/koji.md)
 Format for building and representing knowledge graphs.
-
-# [scotty](./detailed/scotty.md)
-A simple energy simulation engine.
 
 # Arch package manager
 arch package manager (a la homebrew)
@@ -61,7 +61,7 @@ WOT for publications
 - I am starting to suspect that this may be org mode
 
 # [wikimedia-2.0](./detailed/better_wikimedia.md)
-Tenjine + jiki + SOT + citedb + git
+jiki + SOT + citedb + git
 - need a mediawiki format parser (elixir?)
 
 # [nimble wall](./detailed/nimble_wall.md)

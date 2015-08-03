@@ -1,4 +1,5 @@
 # Koji
+
 Format for building and representing knowledge graphs
 	- help me learn more effectively
 	- need to start storing dependencies

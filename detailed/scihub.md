@@ -9,8 +9,10 @@ Unlike
 
 
 # Atom plugins
+
 You could implement the thing as a series of independent
 and useful plugins:
+
 - .md document outline (jump around headers and re-arrange them)
 - realtime collaboration for Atom (websockets)
 - synced scroll for .md preview

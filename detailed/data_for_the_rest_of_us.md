@@ -4,9 +4,17 @@ Date:  19 March 2011 06:32
 
 _**Data for the rest of us**_
 
-I am mad as balls and I see the need to bring data and scientific evidence to the people to give them the power to make autonomous and sound decisions. There is so much out there, and something needs to make it accessible for the benefit of the community. I discussed how the concept came to my mind in a separate entry.
+I am mad as balls and I see the need to bring data and scientific evidence to
+the people to give them the power to make autonomous and sound decisions. There
+is so much out there, and something needs to make it accessible for the benefit
+of the community. I discussed how the concept came to my mind in a separate
+entry.
 
-There is so much out there, it’s just that it is just not really useful for the regular person (check out TEDmed link below for some more insight about this phenomenon). Similarly to medical data, in a broader sense, scientific data is unaccessible. This prevents us from making the most out of it and implement practical solutions to tackle the problem at hand.
+There is so much out there, it’s just that it is just not really useful for the
+regular person (check out TEDmed link below for some more insight about this
+phenomenon). Similarly to medical data, in a broader sense, scientific data is
+unaccessible. This prevents us from making the most out of it and implement
+practical solutions to tackle the problem at hand.
 
 _**Need to bridge some gaps/fix fallacies in knowledge:**_
 
