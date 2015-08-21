@@ -21,9 +21,27 @@ Serve a folder of .md files, wiki-style. Support Search. Later, citations (throu
 
 # Hmail
 
-Haskell/clojure. REST/GraphQL json wrapper over IMAP, SMPTP and GPG. Sending email is:
+REST json wrapper over IMAP, SMPTP and GPG. Sending email is:
 ```
-POST {to: 'bobby@bob.com', from: 'vise@viselabs.com', subject: 'bla', body: 'blabla' } /email
+POST {to: 'bobby@bob.com',
+      from: 'vise@viselabs.com',
+      subject: 'bla',
+      body: 'blabla'}
+     /email
+```
+
+This looks for and fetches bobby's public key from e.g. `pgp.mit.edu`, encrypts the mail and sends it.
+
+Similarly, getting email is:
+
+```
+GET /email
+```
+
+and you get:
+
+```
+[{to: "", from: "", datetime: "", body: "", ...}]
 ```
 
 
