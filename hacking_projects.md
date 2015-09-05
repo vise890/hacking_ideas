@@ -109,6 +109,11 @@ dockerized LaTeX typesetting server
 Integrated with [gocite](./detailed/gocite.md) for citations
 
 
+# [nimble wall](./detailed/nimble_wall.md)
+
+Sanely manage agile walls.
+
+
 # [gojure](./detailed/gojure.md)
 
 Clojure dialect for the golang ecosystem
@@ -129,24 +134,19 @@ HTML content extractor for the CLI.
 Format for building and representing knowledge graphs.
 
 
+# Puddle
+
+README.md / some JSON -> splash-page.html
+
+
 # SOT (Science of Trust)
 
 WOT for publications
 
 
-# [nimble wall](./detailed/nimble_wall.md)
-
-Sanely manage agile walls.
-
-
 # modium (rust)
 
 Convert in between full and octal UNIX permission representations.
-
-
-# Puddle
-
-README.md -> splash-page.html
 
 
 # 'Due' for android/FF OS
@@ -172,4 +172,3 @@ db of scripts to update password on websites (capybara)
   - suggest tags for new content
 - quick to add a new fragment to (inbox) (doesn't go away untill is tagged)
 - I am starting to suspect that this may be org mode
-
