@@ -58,6 +58,11 @@ and you get:
  {...}]
 ```
 
+# [SciHub](./detailed/scihub.md)
+
+Write science better. Together (A github for technical writing, books, papers, research, undergraduate engineering group projects..)
+
+
 # [scotty](./detailed/scotty.md)
 
 A simple energy simulation engine.
@@ -95,11 +100,6 @@ Clojure wrapper for [Electron](http://electron.atom.io)
 dockerized LaTeX typesetting server
 `POST /typeset {something.md} => something.pdf`
 Integrated with [gocite](./detailed/gocite.md) for citations
-
-
-# [PaperWare](./detailed/scihub.md)
-
-Write science better. Together (A github for technical writing, books, papers, research, projects..)
 
 
 # [gojure](./detailed/gojure.md)
