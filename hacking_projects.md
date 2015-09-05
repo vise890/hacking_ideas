@@ -1,4 +1,3 @@
-
 # Pair Reactor
 
 OKCupid for finding the perfect pair to contribute to FLOSS projects.
@@ -37,9 +36,16 @@ and you get:
  {...}]
 ```
 
+
 # [SciHub](./detailed/scihub.md)
 
-Write science better. Together (A github for technical writing, books, papers, research, undergraduate engineering group projects..)
+Write science better. Together.
+A GitHub for technical writing, books, papers, research, undergraduate engineering group projects..
+
+The best environment to collaborate on technical writing.
+
+Bring the fork/modify/PR/RFC model to science!
+
 
 # jiki
 
