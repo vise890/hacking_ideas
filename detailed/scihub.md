@@ -1,12 +1,9 @@
 # SciHub
 do science better. together. whatever
 
-for
-who
-the
-is a
-Unlike
+The best environment for technical writing. Period.
 
+Implement the Fork/Modify/PR/Comment model for writing science.
 
 # Atom plugins
 
