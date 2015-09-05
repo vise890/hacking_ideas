@@ -55,7 +55,7 @@ A simple energy simulation engine.
 ...and sell that shit for much profit
 
 
-# [gocite](./detailed/citedb.md)
+# [gocite](./detailed/gocite.md)
 
 An open, collaborative database for technical citations
 
@@ -109,7 +109,7 @@ WOT for publications
 
 # [wikimedia-2.0](./detailed/better_wikimedia.md)
 
-jiki + SOT + citedb + git
+jiki + SOT + gocite + git
 - need a mediawiki format parser (elixir?)
 
 
