@@ -1,6 +1,6 @@
 # Pair Reactor
 
-OKCupid for finding the perfect pair to contribute to FLOSS projects.
+OKCupid for finding the perfect pair and contribute to FLOSS projects.
 
 You give me the language, your proficiency in it, the projects
 you want to contribute to, pair reactor gives you matches.
