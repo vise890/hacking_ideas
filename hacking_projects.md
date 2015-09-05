@@ -132,17 +132,6 @@ Format for building and representing knowledge graphs.
 WOT for publications
 
 
-# organization software
-
-- notes, thoughts, what this org folder does (or tries to do...)
-- full text searchable
-- the simplicity of pocket
-- taggable, view by tag
-  - suggest tags for new content
-- quick to add a new fragment to (inbox) (doesn't go away untill is tagged)
-- I am starting to suspect that this may be org mode
-
-
 # [nimble wall](./detailed/nimble_wall.md)
 
 Sanely manage agile walls.
@@ -171,3 +160,14 @@ README.md -> splash-page.html
 # PWUpd8
 
 db of scripts to update password on websites (capybara)
+
+# organization software
+
+- notes, thoughts, what this org folder does (or tries to do...)
+- full text searchable
+- the simplicity of pocket
+- taggable, view by tag
+  - suggest tags for new content
+- quick to add a new fragment to (inbox) (doesn't go away untill is tagged)
+- I am starting to suspect that this may be org mode
+
