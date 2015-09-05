@@ -47,16 +47,6 @@ The best environment to collaborate on technical writing.
 Bring the fork/modify/PR/RFC model to science!
 
 
-# [Passlord](./detailed/passlord.md)
-
-A pretty unixy password manager.
-
-
-# [`mdfmt`](./detailed/mdfmt.md)
-
-A markdown formatter/beautifier in the spirit of `gofmt`.
-
-
 # jiki
 
 Transform a folder of markdown files to a full blown, browseable site.
@@ -72,14 +62,24 @@ Possible uses:
 - Any wiki
 
 
-# [scotty](./detailed/scotty.md)
-
-A simple energy simulation engine.
-
-
 # [gocite](./detailed/gocite.md)
 
 An open, collaborative database for technical citations
+
+
+# [Passlord](./detailed/passlord.md)
+
+A pretty unixy password manager.
+
+
+# [`mdfmt`](./detailed/mdfmt.md)
+
+A markdown formatter/beautifier in the spirit of `gofmt`.
+
+
+# [scotty](./detailed/scotty.md)
+
+A simple energy simulation engine.
 
 
 # Sparkel
