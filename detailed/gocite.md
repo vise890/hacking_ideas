@@ -3,7 +3,6 @@
 Writing in markdown is nice. Citing works in is not. It is even more awful in
 bibtex.
 
-Should be able to integrate with [tenjine](./tenjine.md)
 
 ## API for citations/refs
 
