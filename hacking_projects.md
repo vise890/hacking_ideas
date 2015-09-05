@@ -1,27 +1,35 @@
-# Ion shell
-
-Clojure wrapper for [Electron](http://electron.atom.io)
-
-
-# Drug interaction
-
-- crowd-sourced data for drugs
-- app warns you of possible negative interactions between drugs
-
-
 # jiki
 
-Serve a folder of .md files, wiki-style. Support Search. Later, citations (through gocite).
+Transform a folder of markdown files to a full blown, browseable site.
+
+## Features
+- Tree view/list view (list files);
+- Full text search;
+- Citations (through [gocite](./detailed/gocite.md)).
+
+## Possible uses
+- Project documentation (keep a `docs` folder in a project root)
+- Personal blog
+- Any wiki
+
+
+# Sparkel
+
+Tinder for startup finders.
+
+Give your idea, find co-founders.
 
 
 # Pair Reactor
 
-"Dating" website to find remote pairs to work on FOSS projects
+OKCupid for finding the perfect pair to contribute to FLOSS projects.
+
+You give me the language, your proficiency, the projects you want to contribute to, pair reactor gives you matches.
 
 
 # Hmail
 
-REST json wrapper over IMAP, SMPTP and GPG. Sending email is:
+REST json wrapper over IMAP, SMPTP and GPG. Sending (encrypted) email is:
 ```
 POST {to: 'bobby@bob.com',
       from: 'vise@viselabs.com',
@@ -41,18 +49,12 @@ GET /email
 and you get:
 
 ```
-[{to: "", from: "", datetime: "", body: "", ...}]
+[{to: "vise@viselabs.com", from: "bla@bla.com", datetime: "Stardate 4282", body: "Thrusters on full", ...}]
 ```
-
 
 # [scotty](./detailed/scotty.md)
 
 A simple energy simulation engine.
-
-
-# App for studio di settore
-
-...and sell that shit for much profit
 
 
 # [gocite](./detailed/gocite.md)
@@ -60,10 +62,33 @@ A simple energy simulation engine.
 An open, collaborative database for technical citations
 
 
-# GoTypeset
+# Drug interaction
+
+- crowd-sourced data for drugs
+- app warns you of possible negative interactions between drugs
+
+
+# [wikimedia-2.0](./detailed/better_wikimedia.md)
+
+jiki + SOT + gocite + git
+- need a mediawiki format parser (elixir?)
+
+
+# Ion shell
+
+Clojure wrapper for [Electron](http://electron.atom.io)
+
+
+# App for studio di settore
+
+...and sell that shit for much profit
+
+
+# [GoTypeset](https://github.com/vise890/gotypeset)
 
 dockerized LaTeX typesetting server
-- POST /typeset {something.md} => something.pdf
+`POST /typeset {something.md} => something.pdf`
+Integrated with [gocite](./detailed/gocite.md) for citations
 
 
 # [PaperWare](./detailed/scihub.md)
@@ -107,15 +132,10 @@ WOT for publications
 - I am starting to suspect that this may be org mode
 
 
-# [wikimedia-2.0](./detailed/better_wikimedia.md)
-
-jiki + SOT + gocite + git
-- need a mediawiki format parser (elixir?)
-
-
 # [nimble wall](./detailed/nimble_wall.md)
 
 Sanely manage agile walls.
+
 
 # modium (rust)
 
@@ -136,5 +156,7 @@ README.md -> splash-page.html
 
 # Add neovim as an atom/emacs backend
 
+
 # PWUpd8
+
 db of scripts to update password on websites (capybara)
