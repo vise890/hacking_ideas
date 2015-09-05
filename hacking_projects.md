@@ -51,12 +51,12 @@ Bring the fork/modify/PR/RFC model to science!
 
 Transform a folder of markdown files to a full blown, browseable site.
 
-## Features
+Features:
 - Tree view/list view (list files);
 - Full text search;
 - Citations (through [gocite](./detailed/gocite.md)).
 
-## Possible uses
+Possible uses:
 - Project documentation (keep a `docs` folder in a project root)
 - Personal blog
 - Any wiki
