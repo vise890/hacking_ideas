@@ -1,10 +1,8 @@
-keywords: password, clojure, project, pass, gpg, linux_annoyances
----
 # Passlord
 
 A collection of JSON files in a directory.
   - each is crypted with GPG
-  - uses same structure as `pass`
+  - uses same structure as `pass` (and indeed use [`pass`](http://www.passwordstore.org/))
 
 Open standard for storing passwords as JSON:
 (for example)
