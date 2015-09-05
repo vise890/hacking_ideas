@@ -1,24 +1,3 @@
-# jiki
-
-Transform a folder of markdown files to a full blown, browseable site.
-
-## Features
-- Tree view/list view (list files);
-- Full text search;
-- Citations (through [gocite](./detailed/gocite.md)).
-
-## Possible uses
-- Project documentation (keep a `docs` folder in a project root)
-- Personal blog
-- Any wiki
-
-
-# Sparkel
-
-Tinder for startup finders.
-
-Give your idea, find co-founders.
-
 
 # Pair Reactor
 
@@ -62,6 +41,20 @@ and you get:
 
 Write science better. Together (A github for technical writing, books, papers, research, undergraduate engineering group projects..)
 
+# jiki
+
+Transform a folder of markdown files to a full blown, browseable site.
+
+## Features
+- Tree view/list view (list files);
+- Full text search;
+- Citations (through [gocite](./detailed/gocite.md)).
+
+## Possible uses
+- Project documentation (keep a `docs` folder in a project root)
+- Personal blog
+- Any wiki
+
 
 # [scotty](./detailed/scotty.md)
 
@@ -73,6 +66,13 @@ A simple energy simulation engine.
 An open, collaborative database for technical citations
 
 
+# Sparkel
+
+Tinder for startup finders.
+
+Give your idea, find co-founders.
+
+
 # Drug interaction
 
 - crowd-sourced data for drugs
@@ -81,8 +81,7 @@ An open, collaborative database for technical citations
 
 # [wikimedia-2.0](./detailed/better_wikimedia.md)
 
-jiki + SOT + gocite + git
-- need a mediawiki format parser (elixir?)
+jiki + SOT + [gocite](./detailed/gocite.md) + git
 
 
 # Ion shell
