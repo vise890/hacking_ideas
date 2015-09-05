@@ -24,7 +24,8 @@ Give your idea, find co-founders.
 
 OKCupid for finding the perfect pair to contribute to FLOSS projects.
 
-You give me the language, your proficiency, the projects you want to contribute to, pair reactor gives you matches.
+You give me the language, your proficiency in it, the projects
+you want to contribute to, pair reactor gives you matches.
 
 
 # Hmail
@@ -49,7 +50,12 @@ GET /email
 and you get:
 
 ```
-[{to: "vise@viselabs.com", from: "bla@bla.com", datetime: "Stardate 4282", body: "Thrusters on full", ...}]
+[{to: "vise@viselabs.com",
+  from: "bla@bla.com",
+  datetime: "Stardate 4282",
+  subject: "foo",
+  body: "Thrusters on full"},
+ {...}]
 ```
 
 # [scotty](./detailed/scotty.md)
