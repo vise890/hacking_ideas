@@ -46,9 +46,16 @@ The best environment to collaborate on technical writing.
 
 Bring the fork/modify/PR/RFC model to science!
 
+
 # [Passlord](./detailed/passlord.md)
 
 A pretty unixy password manager.
+
+
+# [`mdfmt`](./detailed/mdfmt.md)
+
+A markdown formatter/beautifier in the spirit of `gofmt`.
+
 
 # jiki
 
