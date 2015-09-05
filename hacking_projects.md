@@ -103,7 +103,9 @@ Clojure wrapper for [Electron](http://electron.atom.io)
 # [GoTypeset](https://github.com/vise890/gotypeset)
 
 dockerized LaTeX typesetting server
+
 `POST /typeset {something.md} => something.pdf`
+
 Integrated with [gocite](./detailed/gocite.md) for citations
 
 
