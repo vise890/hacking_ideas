@@ -8,7 +8,7 @@ you want to contribute to, pair reactor gives you matches.
 
 # Hmail
 
-REST json wrapper over IMAP, SMPTP and GPG. Sending (encrypted) email is:
+REST JSON wrapper over IMAP, SMTP and GPG. Sending (encrypted) email is:
 ```
 POST {to: 'bobby@bob.com',
       from: 'vise@viselabs.com',
