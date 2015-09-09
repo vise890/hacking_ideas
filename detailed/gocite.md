@@ -1,6 +1,6 @@
 # Citation db for scientific publishing
 
-Writing in markdown is nice. Citing works in is not. It is even more awful in
+Writing in markdown is nice. Citing works in it is not. It is even more awful in
 bibtex.
 
 Gocite should really be 2 things:
@@ -19,7 +19,7 @@ $ gocite dissertation.tex db.bib
 3. Creates a bibtex db in `db.bib`
 
 
-## API for citations/refs
+## 2. the API for citations/refs
 
 Citedb should have a badass and stupidly simple API:
 
