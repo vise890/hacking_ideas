@@ -84,7 +84,7 @@ A simple energy simulation engine.
 
 # Sparkel
 
-Tinder for startup finders.
+Tinder for startup founders.
 
 Give your idea, find co-founders.
 
