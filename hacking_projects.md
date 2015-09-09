@@ -47,19 +47,9 @@ The best environment to collaborate on technical writing.
 Bring the fork/modify/PR/RFC model to science!
 
 
-# jiki
+# [jiki](./detailed/jiki.md)
 
 Transform a folder of markdown files to a full blown, browseable site.
-
-Features:
-- Tree view/list view (list files);
-- Full text search;
-- Citations (through [gocite](./detailed/gocite.md)).
-
-Possible uses:
-- Project documentation (keep a `docs` folder in a project root)
-- Personal blog
-- Any wiki
 
 
 # [gocite](./detailed/gocite.md)
