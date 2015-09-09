@@ -72,7 +72,7 @@ An open, collaborative database for technical citations
 A pretty unixy password manager.
 
 
-# [`mdfmt`](./detailed/mdfmt.md)
+# `mdfmt`
 
 A markdown formatter/beautifier in the spirit of `gofmt`.
 
@@ -109,6 +109,8 @@ Clojure wrapper for [Electron](http://electron.atom.io)
 
 ...and sell that shit for much profit
 
+[Started in clojure](https://github.com/vise890/studio-settore)
+
 
 # [GoTypeset](https://github.com/vise890/gotypeset)
 
@@ -126,7 +128,7 @@ Sanely manage agile walls.
 
 # [gojure](./detailed/gojure.md)
 
-Clojure dialect for the golang ecosystem
+Clojure dialect for the golang ecosystem.
 
 
 # [pickpocket](./detailed/pickpocket.md)
